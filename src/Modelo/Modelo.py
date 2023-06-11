@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
 from src.Modelo import Personaje as p
-from src.Modelo import LectorGrafo as lg
 from src.Lexers import CreaDict as cd
 from src.Lexers import PosPersonajes as pp
 from src.LecturaFicheros import Lectorcsv
 from src.LecturaFicheros import LecturaEpub
+from src.LecturaFicheros import LectorGrafo as lg
 from src.Guiones import CrearDiccionario as cdguion
 from src.PredictorEtniaSexo import EthneaGenni as eg
 import matplotlib
