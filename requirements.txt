@@ -8,7 +8,7 @@ beautifulsoup4==4.7.1
 lxml==4.3.1
 html5lib==1.0.1
 scipy==1.1.0
-python-louvain
+python-louvain==0.16
 Werkzeug==2.2.2
 DyNetX==0.3.1
 ffmpeg-python==0.2.0
